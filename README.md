@@ -31,7 +31,9 @@ I use the following resources to coordinate work with colleagues:
 ### Specialized tools
 
 * [Ripser](http://ripser.org/) by Ulrich Bauer
+* [GUDHI](https://gudhi.inria.fr/)
 * [ReebGraphPairing](https://github.com/USFDataVisualization/ReebGraphPairing) by Junyi Tu, Mustafa Hajij, and Paul Rosen
+* [TDA](https://cran.r-project.org/package=TDA) by Brittany T. Fasy, Jisu Kim, Fabrizio Lecci, Clement Maria, David L. Millman, Vincent Rouvreau
 * [tdaverse](https://github.com/tdaverse/tdaverse) by Raoul Wadhwa, Matt Piekenbrock, Cory Brunson, and several contributors
 
 
@@ -52,7 +54,7 @@ I use the following resources to coordinate work with colleagues:
 
 #### Methods
 
-* [_Topological data analysis for genomics and evolution : topology in biology_](https://www.cambridge.org/core/books/topological-data-analysis-for-genomics-and-evolution/FCC8429FAD2B5D1525AEA47A8366D6EB) by Rabadán and Blumberg – a gradual introduction to topological data analysis with a focus on biological applications; check [UF Libraries](https://ufl-flvc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99383294925806597&context=L&vid=01FALSC_UFL:UFL) for PDFs
+* [_Topological data analysis for genomics and evolution_](https://www.cambridge.org/core/books/topological-data-analysis-for-genomics-and-evolution/FCC8429FAD2B5D1525AEA47A8366D6EB) by Rabadán and Blumberg – a gradual introduction to topological data analysis with a focus on biological applications; check [UF Libraries](https://ufl-flvc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99383294925806597&context=L&vid=01FALSC_UFL:UFL) for PDFs
 
 #### Software
 
